@@ -1,4 +1,4 @@
-<h1 align="center">Hi 💀 , I'm Aarush Taluja </h1>
+<h1 align="center"> console.log(" Hi 💀 , I'm Aarush Taluja "); </h1>
  <br>
 
  <a href="https://git.io/typing-svg">
