@@ -1,5 +1,5 @@
 <h1 align="center"> console.log(" Hi 💀 , I'm Aarush"); </h1>
- <br>
+<br>
 
  <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Code+is+poetry;every+line+tells+a+story.;Each+function+a+verse,;every+program+a+chapter.;" alt="Typing SVG" />
